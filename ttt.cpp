@@ -2,8 +2,6 @@
 #include <vector>
 #include "ttt_functions.hpp"
 
-// ####################### DECLARATIONS ###################################
-                                                        
 int main() {
 
   std::vector<std::vector<std::string>> board = {{"   ", "   ", "   "}, 
@@ -45,7 +43,5 @@ int main() {
   }
   return 0;
 }
-
-// ######################### END OF PROGRAM ###################################
 
 // Written by AAMD5 (Ahmed Abdelwahab) 18/12/2021.
