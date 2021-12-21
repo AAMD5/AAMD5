@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "ttt_full_functions.hpp"
+#include "ttt_functions.hpp"
 
                                                         
 int main() {
